@@ -20,4 +20,4 @@ jobs:
        uses: actions/checkout@v2
        with:
         repository: hyuxenanetworks/abc
-        path: './xyz'
+        token: ${{ secrets.my_pat }}
