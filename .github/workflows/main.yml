@@ -20,5 +20,5 @@ jobs:
        uses: actions/checkout@v2
        with:
         repository: hyuxenanetworks/abc
-        ref: 'main'
+        ref: main
         token: ${{ secrets.PAT_TOKEN }}
