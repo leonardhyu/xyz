@@ -1,9 +1,9 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Check XOA Python API Documentation
+  - name: 📝 Check XOA Python API Documentation
     url: https://docs.xoa-python-api.xenanetworks.com
     about: The answer you are looking for may be in here.
-  - name: Contact Xena Support
+  - name: 🧑‍💻 Contact Xena Support
     url: https://xenanetworks.com/support/
     about: Open a support case with Xena.
- 
+  
