@@ -28,7 +28,7 @@ body:
     id: version
     attributes:
       label: XOA Python API Version
-      description: What version of XOA Python API are you running?
+      description: What version of XOA Python API (xoa-driver) are you running?
       options:
         - 1.0.8 (Default)
         - 1.0.7
@@ -40,14 +40,15 @@ body:
         - 1.0.1
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: python-version
     attributes:
       label: Python Version
       description: What version of Python are you seeing the problem on?
+      placeholder: "Python 3.10.5"
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: os-version
     attributes:
       label: OS Version
@@ -61,7 +62,6 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
   - type: textarea
