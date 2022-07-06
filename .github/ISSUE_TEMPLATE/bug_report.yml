@@ -9,14 +9,6 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: If you prefer we get in touch with you in a different email, please let us know.
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
