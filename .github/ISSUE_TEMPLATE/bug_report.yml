@@ -1,6 +1,6 @@
 name: 🐞 Bug Report
 description: Create a report to help us improve
-title: "[🐞Bug]: "
+title: "[🐞 Bug]: "
 labels: ["bug"]
 assignees:
   - leonardk11
@@ -13,8 +13,8 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: Your name and how can we get in touch with you if we need more info?
-      placeholder: ex. Your Name, email@example.com
+      description: If you prefer we get in touch with you in a different email, please let us know.
+      placeholder: ex. email@example.com
     validations:
       required: false
   - type: checkboxes
