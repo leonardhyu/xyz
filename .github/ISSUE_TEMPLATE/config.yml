@@ -1,9 +1,15 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 🐞 Bug Report
+    url: https://xenanetworks.com/support/bug-report/
+    about: Create a report to help us improve XOA Python API.
+  - name: ✨ Feature Request
+    url: https://xenanetworks.com/support/feature-request/
+    about: Suggest an idea for XOA Python API.
+  - name: 🧐 Question
+    url: https://xenanetworks.com/support/question/
+    about: Ask us a question about XOA Python API.
   - name: 📝 Check XOA Python API Documentation
     url: https://docs.xoa-python-api.xenanetworks.com
     about: The answer you are looking for may be in here.
-  - name: 🧑‍💻 Contact Xena Support
-    url: https://xenanetworks.com/support/
-    about: Open a support case with Xena.
   
